@@ -1,0 +1,13 @@
+name: DownUp
+main: downup.DownUp
+version: 1.0.0
+
+description: >
+             DownUp. The TF2 Inspired plugin with new weapons!
+
+commands:
+  du:
+    description: Access DownUp
+    usage: /<command> [subcmd]
+    permission: <plugin name>.du
+    permission-message: Beepaboop, NO.
